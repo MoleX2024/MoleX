@@ -1,5 +1,4 @@
-![MoleX Logo](./logo.png)
-
+<img src="./logo.png" alt="MoleX Logo" width="200"/>
 MoleX official repo
 
 ```
