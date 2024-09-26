@@ -1,4 +1,4 @@
-![./logo.png]
+![MoleX Logo](./logo.png)
 
 MoleX official repo
 
