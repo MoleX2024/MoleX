@@ -1,4 +1,6 @@
-<img src="./logo.png" alt="MoleX Logo" width="200"/>
+<div align="center">
+  <img src="./logo.png" alt="MoleX Logo" width="200"/>
+</div>
 MoleX official repo
 
 ```
