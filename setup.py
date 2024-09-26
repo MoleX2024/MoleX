@@ -16,10 +16,10 @@ setup(
     description="Offical package for Molex",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourname/molex24",
+    url="https://github.com/MoleX2024/MoleX/",
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
+        "License :: OSI Approved :: GNU General Public License v2 (GPLv2)",
     ],
     python_requires='>=3.6',
 )
